@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 `define n 8
 
-// structural module
+// data-flow module
 module top(a, b, sel, out);
     input [`n-1:0] a, b;
     input sel;
