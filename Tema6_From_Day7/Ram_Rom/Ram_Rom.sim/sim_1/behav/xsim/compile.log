@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/AMD/Teme si proiecte/Tema6_From_Day7/Ram_Rom/Ram_Rom.srcs/sources_1/new/rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/AMD/Teme si proiecte/Tema6_From_Day7/Ram_Rom/Ram_Rom.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/AMD/Teme si proiecte/Tema6_From_Day7/Ram_Rom/Ram_Rom.srcs/sources_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/AMD/Teme si proiecte/Tema6_From_Day7/Ram_Rom/Ram_Rom.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
