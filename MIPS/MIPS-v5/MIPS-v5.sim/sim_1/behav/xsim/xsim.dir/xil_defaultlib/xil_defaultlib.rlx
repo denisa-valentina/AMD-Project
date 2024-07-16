@@ -1,0 +1,16 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/Alu.v,1721114065,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/Main_Control.v,,Alu,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/Main_Control.v,1721114017,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/adder_4.v,,Main_Control,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/adder_4.v,1721113790,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/data_memory.v,,adder_4,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/data_memory.v,1721114106,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/extend_sign.v,,data_memory,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/extend_sign.v,1721114043,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/instr_memory.v,,extend_sign,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/instr_memory.v,1721113859,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/mux2_1.v,,instr_memory,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/mux2_1.v,1721113914,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/register.v,,mux2_1,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/register.v,1721113790,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/register_bank.v,,register,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/register_bank.v,1721113940,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/top.v,,register_bank,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/test.v,1721114212,verilog,,,,test,,,,,,,,
+C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/top.v,1721114347,verilog,,C:/Users/Denisa/Downloads/AMD-Project-main/MIPS/MIPS-v5/MIPS-v5.srcs/sources_1/new/test.v,,top,,,,,,,,
